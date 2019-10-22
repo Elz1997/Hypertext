@@ -14,3 +14,5 @@ let b = Math.round(8.9);
 
 console.log("number is " + b);
 ```
+const a = ggg;
+```
